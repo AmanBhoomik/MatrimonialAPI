@@ -1,0 +1,193 @@
+D:\ASP .NET Core\Projects\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\ASP .NET Core\Projects\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\appsettings.json
+D:\ASP .NET Core\Projects\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\MatrimonyAPI.exe
+D:\ASP .NET Core\Projects\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\MatrimonyAPI.deps.json
+D:\ASP .NET Core\Projects\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\MatrimonyAPI.runtimeconfig.json
+D:\ASP .NET Core\Projects\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\MatrimonyAPI.dll
+D:\ASP .NET Core\Projects\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\MatrimonyAPI.pdb
+D:\ASP .NET Core\Projects\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\ASP .NET Core\Projects\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ASP .NET Core\Projects\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ASP .NET Core\Projects\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ASP .NET Core\Projects\MatrimonyAPI\MatrimonyAPI\obj\Debug\net6.0\MatrimonyAPI.csproj.AssemblyReference.cache
+D:\ASP .NET Core\Projects\MatrimonyAPI\MatrimonyAPI\obj\Debug\net6.0\MatrimonyAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP .NET Core\Projects\MatrimonyAPI\MatrimonyAPI\obj\Debug\net6.0\MatrimonyAPI.AssemblyInfoInputs.cache
+D:\ASP .NET Core\Projects\MatrimonyAPI\MatrimonyAPI\obj\Debug\net6.0\MatrimonyAPI.AssemblyInfo.cs
+D:\ASP .NET Core\Projects\MatrimonyAPI\MatrimonyAPI\obj\Debug\net6.0\MatrimonyAPI.csproj.CoreCompileInputs.cache
+D:\ASP .NET Core\Projects\MatrimonyAPI\MatrimonyAPI\obj\Debug\net6.0\MatrimonyAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\ASP .NET Core\Projects\MatrimonyAPI\MatrimonyAPI\obj\Debug\net6.0\MatrimonyAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\ASP .NET Core\Projects\MatrimonyAPI\MatrimonyAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\ASP .NET Core\Projects\MatrimonyAPI\MatrimonyAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\ASP .NET Core\Projects\MatrimonyAPI\MatrimonyAPI\obj\Debug\net6.0\scopedcss\bundle\MatrimonyAPI.styles.css
+D:\ASP .NET Core\Projects\MatrimonyAPI\MatrimonyAPI\obj\Debug\net6.0\MatrimonyAPI.csproj.CopyComplete
+D:\ASP .NET Core\Projects\MatrimonyAPI\MatrimonyAPI\obj\Debug\net6.0\MatrimonyAPI.dll
+D:\ASP .NET Core\Projects\MatrimonyAPI\MatrimonyAPI\obj\Debug\net6.0\refint\MatrimonyAPI.dll
+D:\ASP .NET Core\Projects\MatrimonyAPI\MatrimonyAPI\obj\Debug\net6.0\MatrimonyAPI.pdb
+D:\ASP .NET Core\Projects\MatrimonyAPI\MatrimonyAPI\obj\Debug\net6.0\MatrimonyAPI.genruntimeconfig.cache
+D:\ASP .NET Core\Projects\MatrimonyAPI\MatrimonyAPI\obj\Debug\net6.0\ref\MatrimonyAPI.dll
+D:\ASP .NET Core\Projects\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\ASP .NET Core\Projects\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\ASP .NET Core\Projects\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ASP .NET Core\Projects\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ASP .NET Core\Projects\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ASP .NET Core\Projects\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\ASP .NET Core\Projects\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\ASP .NET Core\Projects\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ASP .NET Core\Projects\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\ASP .NET Core\Projects\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\ASP .NET Core\Projects\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ASP .NET Core\Projects\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\ASP .NET Core\Projects\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ASP .NET Core\Projects\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\ASP .NET Core\Projects\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\ASP .NET Core\Projects\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ASP .NET Core\Projects\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\ASP .NET Core\Projects\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ASP .NET Core\Projects\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\ASP .NET Core\Projects\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\ASP .NET Core\Projects\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ASP .NET Core\Projects\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ASP .NET Core\Projects\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP .NET Core\Projects\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP .NET Core\Projects\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP .NET Core\Projects\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP .NET Core\Projects\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\ASP .NET Core\Projects\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ASP .NET Core\Projects\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ASP .NET Core\Projects\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ASP .NET Core\Projects\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ASP .NET Core\Projects\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\ASP .NET Core\Projects\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\AutoMapper.dll
+D:\ASP .NET Core\Projects\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\ASP .NET Core\Projects\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\BCrypt.Net-Next.dll
+D:\ASP .NET Core\Projects\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\MatrimonyAPI.staticwebassets.runtime.json
+C:\Users\2107116\Downloads\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\2107116\Downloads\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\2107116\Downloads\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\MatrimonyAPI.staticwebassets.runtime.json
+C:\Users\2107116\Downloads\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\MatrimonyAPI.exe
+C:\Users\2107116\Downloads\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\MatrimonyAPI.deps.json
+C:\Users\2107116\Downloads\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\MatrimonyAPI.runtimeconfig.json
+C:\Users\2107116\Downloads\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\MatrimonyAPI.dll
+C:\Users\2107116\Downloads\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\MatrimonyAPI.pdb
+C:\Users\2107116\Downloads\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\2107116\Downloads\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\2107116\Downloads\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\2107116\Downloads\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\2107116\Downloads\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\2107116\Downloads\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\2107116\Downloads\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\2107116\Downloads\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\2107116\Downloads\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\2107116\Downloads\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\2107116\Downloads\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\2107116\Downloads\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\2107116\Downloads\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\2107116\Downloads\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\2107116\Downloads\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\2107116\Downloads\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\2107116\Downloads\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\2107116\Downloads\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\2107116\Downloads\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\2107116\Downloads\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\2107116\Downloads\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\2107116\Downloads\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\2107116\Downloads\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\2107116\Downloads\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\2107116\Downloads\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\2107116\Downloads\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\2107116\Downloads\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\2107116\Downloads\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\2107116\Downloads\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\2107116\Downloads\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\2107116\Downloads\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\2107116\Downloads\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\2107116\Downloads\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\2107116\Downloads\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\2107116\Downloads\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\2107116\Downloads\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\2107116\Downloads\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\2107116\Downloads\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\2107116\Downloads\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\2107116\Downloads\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\obj\Debug\net6.0\MatrimonyAPI.csproj.AssemblyReference.cache
+C:\Users\2107116\Downloads\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\obj\Debug\net6.0\MatrimonyAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2107116\Downloads\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\obj\Debug\net6.0\MatrimonyAPI.AssemblyInfoInputs.cache
+C:\Users\2107116\Downloads\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\obj\Debug\net6.0\MatrimonyAPI.AssemblyInfo.cs
+C:\Users\2107116\Downloads\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\obj\Debug\net6.0\MatrimonyAPI.csproj.CoreCompileInputs.cache
+C:\Users\2107116\Downloads\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\obj\Debug\net6.0\MatrimonyAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\2107116\Downloads\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\obj\Debug\net6.0\MatrimonyAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\2107116\Downloads\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\2107116\Downloads\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\2107116\Downloads\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\obj\Debug\net6.0\scopedcss\bundle\MatrimonyAPI.styles.css
+C:\Users\2107116\Downloads\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\obj\Debug\net6.0\MatrimonyAPI.csproj.CopyComplete
+C:\Users\2107116\Downloads\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\obj\Debug\net6.0\MatrimonyAPI.dll
+C:\Users\2107116\Downloads\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\obj\Debug\net6.0\refint\MatrimonyAPI.dll
+C:\Users\2107116\Downloads\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\obj\Debug\net6.0\MatrimonyAPI.pdb
+C:\Users\2107116\Downloads\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\obj\Debug\net6.0\MatrimonyAPI.genruntimeconfig.cache
+C:\Users\2107116\Downloads\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\obj\Debug\net6.0\ref\MatrimonyAPI.dll
+C:\Users\2107116\Downloads\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\2107116\Downloads\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\2107116\Downloads\Matrimonial Site\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\2107116\Downloads\Matrimonial Site\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\2107116\Downloads\Matrimonial Site\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\MatrimonyAPI.staticwebassets.runtime.json
+C:\Users\2107116\Downloads\Matrimonial Site\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\MatrimonyAPI.exe
+C:\Users\2107116\Downloads\Matrimonial Site\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\MatrimonyAPI.deps.json
+C:\Users\2107116\Downloads\Matrimonial Site\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\MatrimonyAPI.runtimeconfig.json
+C:\Users\2107116\Downloads\Matrimonial Site\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\MatrimonyAPI.dll
+C:\Users\2107116\Downloads\Matrimonial Site\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\MatrimonyAPI.pdb
+C:\Users\2107116\Downloads\Matrimonial Site\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\2107116\Downloads\Matrimonial Site\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\2107116\Downloads\Matrimonial Site\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\2107116\Downloads\Matrimonial Site\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\2107116\Downloads\Matrimonial Site\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\2107116\Downloads\Matrimonial Site\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\2107116\Downloads\Matrimonial Site\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\2107116\Downloads\Matrimonial Site\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\2107116\Downloads\Matrimonial Site\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\2107116\Downloads\Matrimonial Site\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\2107116\Downloads\Matrimonial Site\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\2107116\Downloads\Matrimonial Site\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\2107116\Downloads\Matrimonial Site\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\2107116\Downloads\Matrimonial Site\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\2107116\Downloads\Matrimonial Site\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\2107116\Downloads\Matrimonial Site\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\2107116\Downloads\Matrimonial Site\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\2107116\Downloads\Matrimonial Site\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\2107116\Downloads\Matrimonial Site\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\2107116\Downloads\Matrimonial Site\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\2107116\Downloads\Matrimonial Site\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\2107116\Downloads\Matrimonial Site\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\2107116\Downloads\Matrimonial Site\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\2107116\Downloads\Matrimonial Site\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\2107116\Downloads\Matrimonial Site\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\2107116\Downloads\Matrimonial Site\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\2107116\Downloads\Matrimonial Site\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\2107116\Downloads\Matrimonial Site\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\2107116\Downloads\Matrimonial Site\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\2107116\Downloads\Matrimonial Site\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\2107116\Downloads\Matrimonial Site\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\2107116\Downloads\Matrimonial Site\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\2107116\Downloads\Matrimonial Site\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\2107116\Downloads\Matrimonial Site\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\2107116\Downloads\Matrimonial Site\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\2107116\Downloads\Matrimonial Site\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\2107116\Downloads\Matrimonial Site\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\2107116\Downloads\Matrimonial Site\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\2107116\Downloads\Matrimonial Site\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\2107116\Downloads\Matrimonial Site\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\2107116\Downloads\Matrimonial Site\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\2107116\Downloads\Matrimonial Site\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\obj\Debug\net6.0\MatrimonyAPI.csproj.AssemblyReference.cache
+C:\Users\2107116\Downloads\Matrimonial Site\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\obj\Debug\net6.0\MatrimonyAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2107116\Downloads\Matrimonial Site\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\obj\Debug\net6.0\MatrimonyAPI.AssemblyInfoInputs.cache
+C:\Users\2107116\Downloads\Matrimonial Site\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\obj\Debug\net6.0\MatrimonyAPI.AssemblyInfo.cs
+C:\Users\2107116\Downloads\Matrimonial Site\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\obj\Debug\net6.0\MatrimonyAPI.csproj.CoreCompileInputs.cache
+C:\Users\2107116\Downloads\Matrimonial Site\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\obj\Debug\net6.0\MatrimonyAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\2107116\Downloads\Matrimonial Site\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\obj\Debug\net6.0\MatrimonyAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\2107116\Downloads\Matrimonial Site\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\2107116\Downloads\Matrimonial Site\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\2107116\Downloads\Matrimonial Site\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\obj\Debug\net6.0\scopedcss\bundle\MatrimonyAPI.styles.css
+C:\Users\2107116\Downloads\Matrimonial Site\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\obj\Debug\net6.0\MatrimonyAPI.csproj.CopyComplete
+C:\Users\2107116\Downloads\Matrimonial Site\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\obj\Debug\net6.0\MatrimonyAPI.dll
+C:\Users\2107116\Downloads\Matrimonial Site\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\obj\Debug\net6.0\refint\MatrimonyAPI.dll
+C:\Users\2107116\Downloads\Matrimonial Site\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\obj\Debug\net6.0\MatrimonyAPI.pdb
+C:\Users\2107116\Downloads\Matrimonial Site\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\obj\Debug\net6.0\MatrimonyAPI.genruntimeconfig.cache
+C:\Users\2107116\Downloads\Matrimonial Site\MatrimonyAPI\MatrimonyAPI\MatrimonyAPI\obj\Debug\net6.0\ref\MatrimonyAPI.dll

@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "Ty3DCEix/wi5flnTCjkJDc/DA0nNXne6pHqZu3/nHxY=",
+  "Source": "MatrimonyAPI",
+  "BasePath": "_content/MatrimonyAPI",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MatrimonyAPI\\wwwroot",
+      "Source": "MatrimonyAPI",
+      "ContentRoot": "D:\\ASP .NET Core\\Projects\\MatrimonyAPI\\MatrimonyAPI\\wwwroot\\",
+      "BasePath": "_content/MatrimonyAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
